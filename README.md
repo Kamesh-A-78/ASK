@@ -65,6 +65,8 @@ plt.show()
 
 #### graph:
 
+![ask](https://github.com/user-attachments/assets/179ed12c-bd0c-47d5-911d-2faa147d6f5d)
+
 # Results
 
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PHYTON
